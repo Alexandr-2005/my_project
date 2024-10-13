@@ -55,7 +55,7 @@ Backend-сервер взаимодействует с базами данных
 ### Целостность данных и систем
 Цель: гарантировать, что данные и системы интернет-магазина остаются неизменными и защищены от манипуляций, как со стороны злоумышленников, так и в результате внутренних ошибок.
 ## Список используемых литератур
-https://habr.com/ru/companies/simplepay/articles/258499/
-https://owasp.org/Top10/
-https://cwe.mitre.org/
-https://www.zaproxy.org/getting-started/
+-https://habr.com/ru/companies/simplepay/articles/258499/
+-https://owasp.org/Top10/
+-https://cwe.mitre.org/
+-https://www.zaproxy.org/getting-started/
