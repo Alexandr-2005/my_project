@@ -280,3 +280,4 @@ Backend-сервер взаимодействует с базами данных
 - https://owasp.org/Top10/
 - https://cwe.mitre.org/
 - https://www.zaproxy.org/getting-started/
+- https://capec.mitre.org/
